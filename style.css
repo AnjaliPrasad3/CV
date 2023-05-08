@@ -1,0 +1,23 @@
+/* visit mdn keyword index for finding various whats u could use in css styling */
+body{
+    background-color: #F2E5E5;
+}
+hr 
+{
+    border-style:dotted none none;
+    border-color: ghostwhite;
+    border-width: 5px;
+    width: 5%;
+}
+h1
+{
+    color: #2B3A55;
+}
+h3
+{
+    color: #2B3A55;
+}
+h3:hover{
+color: white;
+}
+
